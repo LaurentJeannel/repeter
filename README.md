@@ -1,7 +1,7 @@
 # repeter
  repetition
 
-remplacer traitement js et wsrnode js
+remplacer traitement js et wsrnode js dans JarvisIA/script
 
 phrase de commande dans le xml
 
