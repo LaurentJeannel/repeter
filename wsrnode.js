@@ -40,7 +40,7 @@ var addressesIPV6 = [];
  });
  console.log( addressesIPV4[0]," addresse")
 console.log( addressesIPV6[0]," addresse")
-JarvisIAIpMaster = addressesIPV6[0];
+JarvisIAIpMaster = addressesIPV4[0];
 }
 catch(err){console.log('error ip detection, please contact creator whith error #001');setTimeout(function(){  }, 10000);}
 
